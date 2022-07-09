@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am the founder and co-CEO of SquareTable, and co-lead developer for SocialSquare, the private, secure, and user-friendly social media platform.
+<br>
 Check out SquareTable products and repositories at: https://github.com/SquareTable
 
 <!--
