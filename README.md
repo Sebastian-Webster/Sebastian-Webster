@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am the founder and co-CEO of SquareTable, and co-lead developer for SocialSquare, the private, secure, and user-friendly social media platform.
-Check out SquareTable repositories at: https://github.com/SquareTable
+Check out SquareTable products and repositories at: https://github.com/SquareTable
 
 <!--
 **Sebastian-Webster/Sebastian-Webster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
